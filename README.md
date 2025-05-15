@@ -2,7 +2,7 @@
 
 Looking to absolutely dominate every lobby in Roblox Rivals? The **Rivals Script** is your ultimate key to taking your gameplay to the next level. With a stack of powerful features like aimbot, fly, speed, and unlock all, this **keyless** script delivers elite-level tools to casual and competitive players alike.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/RIVALS/blob/main/rivals%20script.png)
 
 ---
 
